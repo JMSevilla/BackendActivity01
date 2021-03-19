@@ -23,6 +23,9 @@
     </div>
 </div>
 
+<center>
+    <a href="activity2.php" class="btn btn-primary" style="margin-top: 30px; padding: 20px;">Next Activity</a>
+</center>
 
 
 
